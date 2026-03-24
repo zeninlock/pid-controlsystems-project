@@ -4,8 +4,8 @@ BM2000 Control Systems project on PID controller design for a simplified biomedi
 
 ## Authors
 
-- **Aaryan Chaudhari** — BM24BTECh11002  
-- **Dvimidh Sule** — BM24BTECh11008  
+- **Aaryan Chaudhari** — BM24BTECH11002  
+- **Dvimidh Sule** — BM24BTECH11008  
 
 ## Repository Contents
 
