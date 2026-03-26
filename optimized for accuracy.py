@@ -1,3 +1,5 @@
+#THIS IS JUST MESSING AROUND WITH OPTIMIZERS AND PUSHING THE LIMITS OF ACCURACY
+
 import control as ctrl
 import numpy as np
 from scipy.optimize import differential_evolution, minimize
